@@ -7,3 +7,4 @@ barElement.addEventListener("click",()=>{
 closeElement.addEventListener("click",()=>{
     hideElement.style.display="none"
 })
+
