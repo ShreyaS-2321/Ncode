@@ -299,6 +299,10 @@ h1{
         display: block;
     }
 
+    .about-left img{
+        width: 250px;
+    }
+
 }
 
 
